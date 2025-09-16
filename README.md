@@ -1,1 +1,2 @@
 swapnodaya.py
+text=auto
